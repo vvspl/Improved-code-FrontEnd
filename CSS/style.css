@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(226, 226, 202);
+}
+img {
+    width: 200px;
+}
+p {
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 900;
+}
+
+.link-1{
+    color: rgb(11, 11, 187);
+}
+
+.list-1 li {
+    background-color: silver;
+    width: 90%;
+    font-weight: 900;
+}
+.block-1{
+    display: flex;
+    padding-left: 50px;
+    background-color: rgb(226, 226, 202);
+}
+.block-2{
+    text-align: center;
+    background-color: silver;
+    margin-left: 1px;
+    width: 50%
+}
+#design {
+    width: 200px
+}
+#design-2 {
+    width: 90%;
+}
